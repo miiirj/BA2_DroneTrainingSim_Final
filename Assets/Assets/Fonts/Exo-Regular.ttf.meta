@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 382d3bc6c2ce18c4babd815a76dae425
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Exo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77710c5379c06e944b0e7ae18b1b85b9, type: 3}
+  - {fileID: 12800000, guid: 27659f426425ba0448a3817fb61c0b2c, type: 3}
+  - {fileID: 12800000, guid: 66c7eb6fadaedbd4bb79f47646c76fcf, type: 3}
+  - {fileID: 12800000, guid: c07bf7212de2e6b4da1239cdc30075a5, type: 3}
+  - {fileID: 12800000, guid: c65d523039ca4374e845fa606bbcb533, type: 3}
+  - {fileID: 12800000, guid: 5091ab57c3694a84da8c8855a85d5373, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
